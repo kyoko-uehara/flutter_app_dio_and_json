@@ -1,0 +1,29 @@
+import 'package:flutter_app_dio_and_json/model/middle_area_name.dart';
+import 'package:json_annotation/json_annotation.dart';
+
+part 'middle_area.g.dart';
+
+@JsonSerializable()
+class MiddleArea{
+
+  @JsonKey(name : "api_version")
+  String apiVersion;
+
+  @JsonKey(name : "middle_area")
+  List<Map<String, dynamic>> middleAreaName;
+
+  @JsonKey(name : "results_available")
+  int resultsAvailable;
+
+  @JsonKey(name : "results_returned")
+  String resultsReturned;
+
+  @JsonKey(name : "results_start")
+  int  resultsStart;
+
+  MiddleArea();
+
+  factory MiddleArea.fromJson(Map<String, dynamic> json) => _$MiddleAreaFromJson(json);
+  Map<String, dynamic> toJson() => _$MiddleAreaToJson(this);
+
+}
