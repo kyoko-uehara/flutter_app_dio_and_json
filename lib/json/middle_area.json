@@ -1,0 +1,730 @@
+{
+  "results": {
+    "api_version": "1.20",
+    "middle_area": 
+    [{
+      "code": "Y005",
+      "large_area": {
+        "code": "Z011",
+        "name": "東京"
+      },
+      "large_service_area": {
+        "code": "SS10",
+        "name": "関東"
+      },
+      "name": "銀座・有楽町・新橋・築地・月島",
+      "service_area": {
+        "code": "SA11",
+        "name": "東京"
+      }
+    }, {
+      "code": "Y006",
+      "large_area": {
+        "code": "Z011",
+        "name": "東京"
+      },
+      "large_service_area": {
+        "code": "SS10",
+        "name": "関東"
+      },
+      "name": "水道橋・飯田橋・神楽坂",
+      "service_area": {
+        "code": "SA11",
+        "name": "東京"
+      }
+    }, {
+      "code": "Y007",
+      "large_area": {
+        "code": "Z011",
+        "name": "東京"
+      },
+      "large_service_area": {
+        "code": "SS10",
+        "name": "関東"
+      },
+      "name": "お台場",
+      "service_area": {
+        "code": "SA11",
+        "name": "東京"
+      }
+    }, {
+      "code": "Y010",
+      "large_area": {
+        "code": "Z011",
+        "name": "東京"
+      },
+      "large_service_area": {
+        "code": "SS10",
+        "name": "関東"
+      },
+      "name": "東京・大手町・日本橋・人形町",
+      "service_area": {
+        "code": "SA11",
+        "name": "東京"
+      }
+    }, {
+      "code": "Y013",
+      "large_area": {
+        "code": "Z011",
+        "name": "東京"
+      },
+      "large_service_area": {
+        "code": "SS10",
+        "name": "関東"
+      },
+      "name": "四ツ谷・麹町・市ヶ谷・九段下",
+      "service_area": {
+        "code": "SA11",
+        "name": "東京"
+      }
+    }, {
+      "code": "Y015",
+      "large_area": {
+        "code": "Z011",
+        "name": "東京"
+      },
+      "large_service_area": {
+        "code": "SS10",
+        "name": "関東"
+      },
+      "name": "上野・御徒町・浅草",
+      "service_area": {
+        "code": "SA11",
+        "name": "東京"
+      }
+    }, {
+      "code": "Y016",
+      "large_area": {
+        "code": "Z011",
+        "name": "東京"
+      },
+      "large_service_area": {
+        "code": "SS10",
+        "name": "関東"
+      },
+      "name": "北千住・日暮里・葛飾・荒川",
+      "service_area": {
+        "code": "SA11",
+        "name": "東京"
+      }
+    }, {
+      "code": "Y017",
+      "large_area": {
+        "code": "Z011",
+        "name": "東京"
+      },
+      "large_service_area": {
+        "code": "SS10",
+        "name": "関東"
+      },
+      "name": "錦糸町・浅草橋・両国・亀戸",
+      "service_area": {
+        "code": "SA11",
+        "name": "東京"
+      }
+    }, {
+      "code": "Y018",
+      "large_area": {
+        "code": "Z011",
+        "name": "東京"
+      },
+      "large_service_area": {
+        "code": "SS10",
+        "name": "関東"
+      },
+      "name": "門前仲町・東陽町・木場・葛西",
+      "service_area": {
+        "code": "SA11",
+        "name": "東京"
+      }
+    }, {
+      "code": "Y020",
+      "large_area": {
+        "code": "Z011",
+        "name": "東京"
+      },
+      "large_service_area": {
+        "code": "SS10",
+        "name": "関東"
+      },
+      "name": "神田・神保町・秋葉原・御茶ノ水",
+      "service_area": {
+        "code": "SA11",
+        "name": "東京"
+      }
+    }, {
+      "code": "Y025",
+      "large_area": {
+        "code": "Z011",
+        "name": "東京"
+      },
+      "large_service_area": {
+        "code": "SS10",
+        "name": "関東"
+      },
+      "name": "品川･目黒･田町･浜松町･五反田",
+      "service_area": {
+        "code": "SA11",
+        "name": "東京"
+      }
+    }, {
+      "code": "Y026",
+      "large_area": {
+        "code": "Z011",
+        "name": "東京"
+      },
+      "large_service_area": {
+        "code": "SS10",
+        "name": "関東"
+      },
+      "name": "蒲田・大森・大田区",
+      "service_area": {
+        "code": "SA11",
+        "name": "東京"
+      }
+    }, {
+      "code": "Y030",
+      "large_area": {
+        "code": "Z011",
+        "name": "東京"
+      },
+      "large_service_area": {
+        "code": "SS10",
+        "name": "関東"
+      },
+      "name": "渋谷",
+      "service_area": {
+        "code": "SA11",
+        "name": "東京"
+      }
+    }, {
+      "code": "Y035",
+      "large_area": {
+        "code": "Z011",
+        "name": "東京"
+      },
+      "large_service_area": {
+        "code": "SS10",
+        "name": "関東"
+      },
+      "name": "原宿・青山・表参道",
+      "service_area": {
+        "code": "SA11",
+        "name": "東京"
+      }
+    }, {
+      "code": "Y040",
+      "large_area": {
+        "code": "Z011",
+        "name": "東京"
+      },
+      "large_service_area": {
+        "code": "SS10",
+        "name": "関東"
+      },
+      "name": "恵比寿・中目黒・代官山・広尾",
+      "service_area": {
+        "code": "SA11",
+        "name": "東京"
+      }
+    }, {
+      "code": "Y045",
+      "large_area": {
+        "code": "Z011",
+        "name": "東京"
+      },
+      "large_service_area": {
+        "code": "SS10",
+        "name": "関東"
+      },
+      "name": "赤坂・六本木・麻布十番・西麻布",
+      "service_area": {
+        "code": "SA11",
+        "name": "東京"
+      }
+    }, {
+      "code": "Y046",
+      "large_area": {
+        "code": "Z011",
+        "name": "東京"
+      },
+      "large_service_area": {
+        "code": "SS10",
+        "name": "関東"
+      },
+      "name": "自由が丘・田園調布",
+      "service_area": {
+        "code": "SA11",
+        "name": "東京"
+      }
+    }, {
+      "code": "Y050",
+      "large_area": {
+        "code": "Z011",
+        "name": "東京"
+      },
+      "large_service_area": {
+        "code": "SS10",
+        "name": "関東"
+      },
+      "name": "池袋",
+      "service_area": {
+        "code": "SA11",
+        "name": "東京"
+      }
+    }, {
+      "code": "Y051",
+      "large_area": {
+        "code": "Z011",
+        "name": "東京"
+      },
+      "large_service_area": {
+        "code": "SS10",
+        "name": "関東"
+      },
+      "name": "赤羽・王子・十条",
+      "service_area": {
+        "code": "SA11",
+        "name": "東京"
+      }
+    }, {
+      "code": "Y055",
+      "large_area": {
+        "code": "Z011",
+        "name": "東京"
+      },
+      "large_service_area": {
+        "code": "SS10",
+        "name": "関東"
+      },
+      "name": "新宿",
+      "service_area": {
+        "code": "SA11",
+        "name": "東京"
+      }
+    }, {
+      "code": "Y056",
+      "large_area": {
+        "code": "Z011",
+        "name": "東京"
+      },
+      "large_service_area": {
+        "code": "SS10",
+        "name": "関東"
+      },
+      "name": "新大久保・大久保",
+      "service_area": {
+        "code": "SA11",
+        "name": "東京"
+      }
+    }, {
+      "code": "Y057",
+      "large_area": {
+        "code": "Z011",
+        "name": "東京"
+      },
+      "large_service_area": {
+        "code": "SS10",
+        "name": "関東"
+      },
+      "name": "巣鴨・大塚・駒込",
+      "service_area": {
+        "code": "SA11",
+        "name": "東京"
+      }
+    }, {
+      "code": "Y060",
+      "large_area": {
+        "code": "Z011",
+        "name": "東京"
+      },
+      "large_service_area": {
+        "code": "SS10",
+        "name": "関東"
+      },
+      "name": "中野・高円寺・阿佐ヶ谷・方南町",
+      "service_area": {
+        "code": "SA11",
+        "name": "東京"
+      }
+    }, {
+      "code": "Y070",
+      "large_area": {
+        "code": "Z011",
+        "name": "東京"
+      },
+      "large_service_area": {
+        "code": "SS10",
+        "name": "関東"
+      },
+      "name": "下北沢・代々木上原",
+      "service_area": {
+        "code": "SA11",
+        "name": "東京"
+      }
+    }, {
+      "code": "Y072",
+      "large_area": {
+        "code": "Z011",
+        "name": "東京"
+      },
+      "large_service_area": {
+        "code": "SS10",
+        "name": "関東"
+      },
+      "name": "高田馬場",
+      "service_area": {
+        "code": "SA11",
+        "name": "東京"
+      }
+    }, {
+      "code": "Y073",
+      "large_area": {
+        "code": "Z011",
+        "name": "東京"
+      },
+      "large_service_area": {
+        "code": "SS10",
+        "name": "関東"
+      },
+      "name": "池尻大橋・三軒茶屋・駒沢大学",
+      "service_area": {
+        "code": "SA11",
+        "name": "東京"
+      }
+    }, {
+      "code": "Y074",
+      "large_area": {
+        "code": "Z011",
+        "name": "東京"
+      },
+      "large_service_area": {
+        "code": "SS10",
+        "name": "関東"
+      },
+      "name": "桜新町・用賀・二子玉川",
+      "service_area": {
+        "code": "SA11",
+        "name": "東京"
+      }
+    }, {
+      "code": "Y075",
+      "large_area": {
+        "code": "Z011",
+        "name": "東京"
+      },
+      "large_service_area": {
+        "code": "SS10",
+        "name": "関東"
+      },
+      "name": "祐天寺・学芸大学・都立大学",
+      "service_area": {
+        "code": "SA11",
+        "name": "東京"
+      }
+    }, {
+      "code": "Y076",
+      "large_area": {
+        "code": "Z011",
+        "name": "東京"
+      },
+      "large_service_area": {
+        "code": "SS10",
+        "name": "関東"
+      },
+      "name": "幡ヶ谷・笹塚・明大前・下高井戸",
+      "service_area": {
+        "code": "SA11",
+        "name": "東京"
+      }
+    }, {
+      "code": "Y077",
+      "large_area": {
+        "code": "Z011",
+        "name": "東京"
+      },
+      "large_service_area": {
+        "code": "SS10",
+        "name": "関東"
+      },
+      "name": "調布・府中・千歳烏山・仙川",
+      "service_area": {
+        "code": "SA11",
+        "name": "東京"
+      }
+    }, {
+      "code": "Y078",
+      "large_area": {
+        "code": "Z011",
+        "name": "東京"
+      },
+      "large_service_area": {
+        "code": "SS10",
+        "name": "関東"
+      },
+      "name": "経堂・千歳船橋",
+      "service_area": {
+        "code": "SA11",
+        "name": "東京"
+      }
+    }, {
+      "code": "Y079",
+      "large_area": {
+        "code": "Z011",
+        "name": "東京"
+      },
+      "large_service_area": {
+        "code": "SS10",
+        "name": "関東"
+      },
+      "name": "祖師ヶ谷大蔵・成城学園前",
+      "service_area": {
+        "code": "SA11",
+        "name": "東京"
+      }
+    }, {
+      "code": "Y080",
+      "large_area": {
+        "code": "Z011",
+        "name": "東京"
+      },
+      "large_service_area": {
+        "code": "SS10",
+        "name": "関東"
+      },
+      "name": "大井町･中延･旗の台･戸越･馬込",
+      "service_area": {
+        "code": "SA11",
+        "name": "東京"
+      }
+    }, {
+      "code": "Y081",
+      "large_area": {
+        "code": "Z011",
+        "name": "東京"
+      },
+      "large_service_area": {
+        "code": "SS10",
+        "name": "関東"
+      },
+      "name": "不動前・武蔵小山",
+      "service_area": {
+        "code": "SA11",
+        "name": "東京"
+      }
+    }, {
+      "code": "Y082",
+      "large_area": {
+        "code": "Z011",
+        "name": "東京"
+      },
+      "large_service_area": {
+        "code": "SS10",
+        "name": "関東"
+      },
+      "name": "雪が谷大塚・池上",
+      "service_area": {
+        "code": "SA11",
+        "name": "東京"
+      }
+    }, {
+      "code": "Y083",
+      "large_area": {
+        "code": "Z011",
+        "name": "東京"
+      },
+      "large_service_area": {
+        "code": "SS10",
+        "name": "関東"
+      },
+      "name": "武蔵小金井",
+      "service_area": {
+        "code": "SA11",
+        "name": "東京"
+      }
+    }, {
+      "code": "Y088",
+      "large_area": {
+        "code": "Z011",
+        "name": "東京"
+      },
+      "large_service_area": {
+        "code": "SS10",
+        "name": "関東"
+      },
+      "name": "国立・国分寺",
+      "service_area": {
+        "code": "SA11",
+        "name": "東京"
+      }
+    }, {
+      "code": "Y089",
+      "large_area": {
+        "code": "Z011",
+        "name": "東京"
+      },
+      "large_service_area": {
+        "code": "SS10",
+        "name": "関東"
+      },
+      "name": "青梅・昭島・小作・青梅線沿線",
+      "service_area": {
+        "code": "SA11",
+        "name": "東京"
+      }
+    }, {
+      "code": "Y090",
+      "large_area": {
+        "code": "Z011",
+        "name": "東京"
+      },
+      "large_service_area": {
+        "code": "SS10",
+        "name": "関東"
+      },
+      "name": "多摩センター・南大沢",
+      "service_area": {
+        "code": "SA11",
+        "name": "東京"
+      }
+    }, {
+      "code": "Y100",
+      "large_area": {
+        "code": "Z011",
+        "name": "東京"
+      },
+      "large_service_area": {
+        "code": "SS10",
+        "name": "関東"
+      },
+      "name": "吉祥寺・荻窪・三鷹",
+      "service_area": {
+        "code": "SA11",
+        "name": "東京"
+      }
+    }, {
+      "code": "Y105",
+      "large_area": {
+        "code": "Z011",
+        "name": "東京"
+      },
+      "large_service_area": {
+        "code": "SS10",
+        "name": "関東"
+      },
+      "name": "町田",
+      "service_area": {
+        "code": "SA11",
+        "name": "東京"
+      }
+    }, {
+      "code": "Y110",
+      "large_area": {
+        "code": "Z011",
+        "name": "東京"
+      },
+      "large_service_area": {
+        "code": "SS10",
+        "name": "関東"
+      },
+      "name": "八王子・立川",
+      "service_area": {
+        "code": "SA11",
+        "name": "東京"
+      }
+    }, {
+      "code": "Y111",
+      "large_area": {
+        "code": "Z011",
+        "name": "東京"
+      },
+      "large_service_area": {
+        "code": "SS10",
+        "name": "関東"
+      },
+      "name": "西武池袋線（石神井公園～秋津）",
+      "service_area": {
+        "code": "SA11",
+        "name": "東京"
+      }
+    }, {
+      "code": "Y112",
+      "large_area": {
+        "code": "Z011",
+        "name": "東京"
+      },
+      "large_service_area": {
+        "code": "SS10",
+        "name": "関東"
+      },
+      "name": "西武新宿線(中井～田無～東村山)",
+      "service_area": {
+        "code": "SA11",
+        "name": "東京"
+      }
+    }, {
+      "code": "Y113",
+      "large_area": {
+        "code": "Z011",
+        "name": "東京"
+      },
+      "large_service_area": {
+        "code": "SS10",
+        "name": "関東"
+      },
+      "name": "練馬・板橋・成増・江古田",
+      "service_area": {
+        "code": "SA11",
+        "name": "東京"
+      }
+    }, {
+      "code": "Y114",
+      "large_area": {
+        "code": "Z011",
+        "name": "東京"
+      },
+      "large_service_area": {
+        "code": "SS10",
+        "name": "関東"
+      },
+      "name": "都営三田線（新板橋～西高島平）",
+      "service_area": {
+        "code": "SA11",
+        "name": "東京"
+      }
+    }, {
+      "code": "Y119",
+      "large_area": {
+        "code": "Z011",
+        "name": "東京"
+      },
+      "large_service_area": {
+        "code": "SS10",
+        "name": "関東"
+      },
+      "name": "聖蹟桜ヶ丘・高幡不動・分倍河原",
+      "service_area": {
+        "code": "SA11",
+        "name": "東京"
+      }
+    }, {
+      "code": "Y852",
+      "large_area": {
+        "code": "Z011",
+        "name": "東京"
+      },
+      "large_service_area": {
+        "code": "SS10",
+        "name": "関東"
+      },
+      "name": "東京都その他",
+      "service_area": {
+        "code": "SA11",
+        "name": "東京"
+      }
+    }],
+    "results_available": 48,
+    "results_returned": "48",
+    "results_start": 1
+  }
+}

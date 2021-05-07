@@ -7,9 +7,13 @@ part of 'results.dart';
 // **************************************************************************
 
 Results _$ResultsFromJson(Map<String, dynamic> json) {
-  return Results()..results = json['results'] as Map<String, dynamic>;
+  return Results(
+    json['results'] == null
+        ? null
+        : MiddleArea.fromJson(json['results'] as Map<String, dynamic>),
+  );
 }
 
 Map<String, dynamic> _$ResultsToJson(Results instance) => <String, dynamic>{
-      'results': instance.results,
+      'results': instance.middleArea,
     };

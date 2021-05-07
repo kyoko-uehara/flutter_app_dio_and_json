@@ -7,12 +7,13 @@ part of 'middle_area_name.dart';
 // **************************************************************************
 
 MiddleAreaName _$MiddleAreaNameFromJson(Map<String, dynamic> json) {
-  return MiddleAreaName()
-    ..code = json['code'] as String
-    ..largeArea = json['large_area']
-    ..largeServiceArea = json['large_service_area']
-    ..name = json['name'] as String
-    ..serviceArea = json['service_area'];
+  return MiddleAreaName(
+    json['code'] as String,
+    json['large_area'] as Map<String, dynamic>,
+    json['large_service_area'] as Map<String, dynamic>,
+    json['name'] as String,
+    json['service_area'] as Map<String, dynamic>,
+  );
 }
 
 Map<String, dynamic> _$MiddleAreaNameToJson(MiddleAreaName instance) =>

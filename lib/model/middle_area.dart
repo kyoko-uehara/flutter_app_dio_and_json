@@ -10,7 +10,7 @@ class MiddleArea{
   String apiVersion;
 
   @JsonKey(name : "middle_area")
-  List<Map<String, dynamic>> middleAreaName;
+  List<MiddleAreaName> middleAreaName = [];
 
   @JsonKey(name : "results_available")
   int resultsAvailable;
@@ -21,7 +21,12 @@ class MiddleArea{
   @JsonKey(name : "results_start")
   int  resultsStart;
 
-  MiddleArea();
+  MiddleArea(
+      this.apiVersion,
+      this.middleAreaName,
+      this.resultsAvailable,
+      this.resultsReturned,
+      this.resultsStart);
 
   factory MiddleArea.fromJson(Map<String, dynamic> json) => _$MiddleAreaFromJson(json);
   Map<String, dynamic> toJson() => _$MiddleAreaToJson(this);

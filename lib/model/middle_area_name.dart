@@ -21,18 +21,18 @@ class MiddleAreaName{
   String code;
 
   @JsonKey(name : "large_area")
-  dynamic largeArea;
+  Map<String, dynamic> largeArea;
 
   @JsonKey(name : "large_service_area")
-  dynamic largeServiceArea;
+  Map<String, dynamic> largeServiceArea;
 
   @JsonKey(name : "name")
   String name;
 
   @JsonKey(name : "service_area")
-  dynamic serviceArea;
+  Map<String, dynamic> serviceArea;
 
-  MiddleAreaName();
+  MiddleAreaName(this.code, this.largeArea, this.largeServiceArea, this.name, this.serviceArea);
 
   factory MiddleAreaName.fromJson(Map<String, dynamic> json) => _$MiddleAreaNameFromJson(json);
   Map<String, dynamic> toJson() => _$MiddleAreaNameToJson(this);

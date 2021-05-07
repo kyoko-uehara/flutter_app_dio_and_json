@@ -1,0 +1,949 @@
+
+
+
+
+{
+  "results": {
+    "api_version": "1.26",
+    "results_available": 2541,
+    "results_returned": "10",
+    "results_start": 1,
+    "shop": [{
+      "access": "地下鉄 日比谷駅 A１出口 徒歩直結／地下鉄 銀座駅 C１出口 徒歩30秒／JR 有楽町駅 銀座出口 徒歩2分　の個室居酒屋♪",
+      "address": "東京都千代田区有楽町２－３－５　aune有楽町３Ｆ",
+      "band": "不可",
+      "barrier_free": "なし ：※お手伝いが必要な方はスタッフまでお申し付け下さい。スタッフ一同、全力でサポート致します！お気軽に♪",
+      "budget": {
+        "average": "3500円",
+        "code": "B003",
+        "name": "3001～4000円"
+      },
+      "budget_memo": "席料としてお通し代あり。（コース時は料金に含まれます）",
+      "capacity": 116,
+      "card": "利用可",
+      "catch": "早割・遅割特典20％OFF 【全席個室】2～最大38名",
+      "charter": "貸切不可 ：完全個室ですので、一部フロア貸切等、詳細はお気軽に店舗までご相談下さいませ♪コースやお酒は豊富です！",
+      "child": "お子様連れ歓迎 ：当店は、お子様連れも歓迎致します。ご家族でもゆったりお食事可能です！ソフトドリンクも豊富にご用意！",
+      "close": "※諸般の事情により、定休日を変更させていただく事がございます。詳細はお電話にてお問合せくださいませ。",
+      "coupon_urls": {
+        "pc": "https://www.hotpepper.jp/strJ000962885/map/?vos=nhppalsa000016",
+        "sp": "https://www.hotpepper.jp/strJ000962885/scoupon/?vos=nhppalsa000016"
+      },
+      "course": "あり",
+      "english": "なし",
+      "free_drink": "あり ：各種飲み放題付きコースをご用意。各種ご宴会の予約承ります　☆単品飲み放題のみのご注文も承ります！！",
+      "free_food": "なし ：食べ放題プランはご用意しておりません。逸品料理やコース、ドリンクを種類豊富にご用意しております。",
+      "genre": {
+        "catch": "有楽町 日比谷 居酒屋 和食 宴会 個室",
+        "code": "G001",
+        "name": "居酒屋"
+      },
+      "horigotatsu": "あり ：掘りごたつ席のご希望はお気軽にご相談下さい。各種ご宴会のご予約承っております。",
+      "id": "J000962885",
+      "karaoke": "なし",
+      "ktai_coupon": 0,
+      "large_area": {
+        "code": "Z011",
+        "name": "東京"
+      },
+      "large_service_area": {
+        "code": "SS10",
+        "name": "関東"
+      },
+      "lat": 35.6732610355,
+      "lng": 139.7616027794,
+      "logo_image": "https://imgfp.hotp.jp/IMGH/76/92/P013967692/P013967692_69.jpg",
+      "lunch": "なし",
+      "middle_area": {
+        "code": "Y005",
+        "name": "銀座・有楽町・新橋・築地・月島"
+      },
+      "midnight": "営業している",
+      "mobile_access": "日比谷駅A1出口直結/銀座駅C1出口すぐ/JR有楽町駅",
+      "name": "楽蔵 うたげ 銀座 有楽町駅前店",
+      "name_kana": "ぜんせきこしつ　らくぞううたげ　ゆうらくちょうえきまえてん　ぎんざ",
+      "non_smoking": "全面禁煙",
+      "open": "月～日、祝日、祝前日: 17:00～23:30",
+      "other_memo": "※不明点等ございましたらお気軽に店舗へご相談下さいませ！",
+      "parking": "なし ：お近くのコインパーキングをご利用くださいませ！お酒を飲まれる際はお車でのお越しはご遠慮ください。",
+      "party_capacity": 38,
+      "pet": "不可",
+      "photo": {
+        "mobile": {
+          "l": "https://imgfp.hotp.jp/IMGH/20/96/P036472096/P036472096_168.jpg",
+          "s": "https://imgfp.hotp.jp/IMGH/20/96/P036472096/P036472096_100.jpg"
+        },
+        "pc": {
+          "l": "https://imgfp.hotp.jp/IMGH/20/96/P036472096/P036472096_238.jpg",
+          "m": "https://imgfp.hotp.jp/IMGH/20/96/P036472096/P036472096_168.jpg",
+          "s": "https://imgfp.hotp.jp/IMGH/20/96/P036472096/P036472096_58_s.jpg"
+        }
+      },
+      "private_room": "あり ：2名×6室・4名×12室・6名×5室・10名×2室・14名×2室・24名×1室・38名×1室でご完備しております！！",
+      "service_area": {
+        "code": "SA11",
+        "name": "東京"
+      },
+      "shop_detail_memo": "各種宴会に最適な、2時間飲み放題付きコース等をご用意しておりますのでお気軽にご予約くださいませ！！",
+      "show": "なし",
+      "small_area": {
+        "code": "X015",
+        "name": "有楽町"
+      },
+      "station_name": "銀座",
+      "sub_genre": {
+        "code": "G002",
+        "name": "ダイニングバー・バル"
+      },
+      "tatami": "なし ：お座敷席のご用意はございませんが、お席のレイアウト等、お気軽にご相談下さいませ♪個室席多数あり♪",
+      "tv": "なし",
+      "urls": {
+        "pc": "https://www.hotpepper.jp/strJ000962885/?vos=nhppalsa000016"
+      },
+      "wedding": "各種パーティーや結婚式2次会もお手伝いします。お気軽にご相談下さい。 予約可能◎",
+      "wifi": "なし"
+    }, {
+      "access": "JR有楽町駅1分・銀座駅1分・有楽町線銀座一丁目駅徒歩1分/◎プランタンすぐ裏 銀座並木通り郵便局すぐ向かい",
+      "address": "東京都中央区銀座３-3-14 グランディアビル2 4F",
+      "band": "不可",
+      "barrier_free": "なし",
+      "budget": {
+        "average": "3000円～",
+        "code": "B002",
+        "name": "2001～3000円"
+      },
+      "budget_memo": "お通し:440円/チャージ料:なし",
+      "capacity": 90,
+      "card": "利用可",
+      "catch": "★コロナ対策実施中★ ★サプライズ特典★",
+      "charter": "貸切可 ：お店まるごと貸切OK♪お気軽にご相談下さい！",
+      "child": "お子様連れ歓迎 ：お子様連れのママ会にも人気です♪",
+      "close": "無",
+      "coupon_urls": {
+        "pc": "https://www.hotpepper.jp/strJ000988985/map/?vos=nhppalsa000016",
+        "sp": "https://www.hotpepper.jp/strJ000988985/scoupon/?vos=nhppalsa000016"
+      },
+      "course": "あり",
+      "english": "あり",
+      "free_drink": "あり ：コースじゃなくても飲み放題OK！お得なクーポンで【2時間980円～】100種を超える豪華ラインナップ♪",
+      "free_food": "あり ：チーズフォンデュ＆ミートフォンデュの『Wフォンデュ食べ放題』⇒980円！",
+      "genre": {
+        "catch": "お洒落なデザイナーズ個室多数!2名様～OK♪",
+        "code": "G001",
+        "name": "居酒屋"
+      },
+      "horigotatsu": "あり ：お席の事ならお気軽に店舗までご相談ください。女子会/合コン/個室で宴会/パーティー/誕生日/デートに最適!",
+      "id": "J000988985",
+      "karaoke": "なし",
+      "ktai_coupon": 0,
+      "large_area": {
+        "code": "Z011",
+        "name": "東京"
+      },
+      "large_service_area": {
+        "code": "SS10",
+        "name": "関東"
+      },
+      "lat": 35.6730114356,
+      "lng": 139.7651261013,
+      "logo_image": "https://imgfp.hotp.jp/IMGH/02/20/P036680220/P036680220_69.jpg",
+      "lunch": "なし",
+      "middle_area": {
+        "code": "Y005",
+        "name": "銀座・有楽町・新橋・築地・月島"
+      },
+      "midnight": "営業していない",
+      "mobile_access": "JR有楽町駅1分･銀座駅1分 ◎ﾌﾟﾗﾝﾀﾝすぐ裏 ",
+      "name": "銀座ガーデンファーム 銀座並木通り店",
+      "name_kana": "ぎんざがーでんふぁーむなみきどおりてん",
+      "non_smoking": "全面禁煙",
+      "open": "月～日、祝日、祝前日: 11:30～23:30 （料理L.O. 22:30 ドリンクL.O. 23:00）",
+      "other_memo": "人気のバースデーサプライズプランもご用意しております♪【照明・音響設備あり！】",
+      "parking": "なし",
+      "party_capacity": 90,
+      "pet": "不可",
+      "photo": {
+        "mobile": {
+          "l": "https://imgfp.hotp.jp/IMGH/31/57/P032093157/P032093157_168.jpg",
+          "s": "https://imgfp.hotp.jp/IMGH/31/57/P032093157/P032093157_100.jpg"
+        },
+        "pc": {
+          "l": "https://imgfp.hotp.jp/IMGH/31/57/P032093157/P032093157_238.jpg",
+          "m": "https://imgfp.hotp.jp/IMGH/31/57/P032093157/P032093157_168.jpg",
+          "s": "https://imgfp.hotp.jp/IMGH/31/57/P032093157/P032093157_58_s.jpg"
+        }
+      },
+      "private_room": "あり ：個室は2名様～OK！女子会/飲み会/合コン/夜カフェ/パーティーに！",
+      "service_area": {
+        "code": "SA11",
+        "name": "東京"
+      },
+      "shop_detail_memo": "サプライズに♪誕生日＆記念日ケーキもご用意致します♪※クーポン利用で無料プレゼント！",
+      "show": "なし",
+      "small_area": {
+        "code": "X005",
+        "name": "銀座"
+      },
+      "station_name": "銀座",
+      "sub_genre": {
+        "code": "G006",
+        "name": "イタリアン・フレンチ"
+      },
+      "tatami": "なし",
+      "tv": "なし",
+      "urls": {
+        "pc": "https://www.hotpepper.jp/strJ000988985/?vos=nhppalsa000016"
+      },
+      "wedding": "ウエディング2次会・婚活Party・各種Party等、お気軽にお問い合わせ下さい♪",
+      "wifi": "あり"
+    }, {
+      "access": "ＪＲ新橋駅烏森口より徒歩約2分/都営浅草線新橋駅Ａ１出口より徒歩約4分",
+      "address": "東京都港区新橋３-18-1 B1F",
+      "band": "不可",
+      "barrier_free": "なし ：スタッフにお気軽にお声掛け下さいませ。事前のお問い合わせもお気軽にどうぞ。",
+      "budget": {
+        "average": "2400円",
+        "code": "B002",
+        "name": "2001～3000円"
+      },
+      "budget_memo": "キャンセル：前日はコース料金50%、当日は100%頂戴しております",
+      "capacity": 70,
+      "card": "利用可",
+      "catch": "3時間飲み放題コース 個室ありが嬉しい◎",
+      "charter": "貸切可 ：貸切希望のお客様はお気軽にご相談ください!!",
+      "child": "お子様連れOK ：貸切可能人数40名様 ～80名様",
+      "close": "※オープン記念は予約必須となっております",
+      "coupon_urls": {
+        "pc": "https://www.hotpepper.jp/strJ001266989/map/?vos=nhppalsa000016",
+        "sp": "https://www.hotpepper.jp/strJ001266989/scoupon/?vos=nhppalsa000016"
+      },
+      "course": "あり",
+      "english": "あり",
+      "free_drink": "あり ：貸切可能人数40名様 ～80名様",
+      "free_food": "あり ：貸切可能人数40名様 ～80名様",
+      "genre": {
+        "catch": "個室◎×生ビール付飲み放題×3時間◎",
+        "code": "G001",
+        "name": "居酒屋"
+      },
+      "horigotatsu": "なし ：開放感のあるテーブルはゆっくりおくつろぎ頂けます♪",
+      "id": "J001266989",
+      "karaoke": "なし",
+      "ktai_coupon": 0,
+      "large_area": {
+        "code": "Z011",
+        "name": "東京"
+      },
+      "large_service_area": {
+        "code": "SS10",
+        "name": "関東"
+      },
+      "lat": 35.6651043389,
+      "lng": 139.7573137489,
+      "logo_image": "https://imgfp.hotp.jp/IMGH/60/57/P037606057/P037606057_69.jpg",
+      "lunch": "あり",
+      "middle_area": {
+        "code": "Y005",
+        "name": "銀座・有楽町・新橋・築地・月島"
+      },
+      "midnight": "営業していない",
+      "mobile_access": "JR新橋駅烏森口徒歩2分/都営浅草線新橋A1出口徒歩4分",
+      "name": "金太炉酒場 きんたろさかば 新橋店",
+      "name_kana": "たいしゅうげんかいざかや　ぷれみあむもるつ　きんたろうさかば　しんばしてん",
+      "non_smoking": "全面禁煙",
+      "open": "月～日、祝日、祝前日: 12:00～20:00 （料理L.O. 19:00 ドリンクL.O. 19:00）",
+      "other_memo": "マイク利用可/プロジェクター・スクリーンあり",
+      "parking": "なし ：お近くのコインパーキングをご利用下さいませ。",
+      "party_capacity": 80,
+      "pet": "不可",
+      "photo": {
+        "mobile": {
+          "l": "https://imgfp.hotp.jp/IMGH/60/58/P037606058/P037606058_168.jpg",
+          "s": "https://imgfp.hotp.jp/IMGH/60/58/P037606058/P037606058_100.jpg"
+        },
+        "pc": {
+          "l": "https://imgfp.hotp.jp/IMGH/60/58/P037606058/P037606058_238.jpg",
+          "m": "https://imgfp.hotp.jp/IMGH/60/58/P037606058/P037606058_168.jpg",
+          "s": "https://imgfp.hotp.jp/IMGH/60/58/P037606058/P037606058_58_s.jpg"
+        }
+      },
+      "private_room": "あり ：少人数様から個室や半個室やご用意しております。",
+      "service_area": {
+        "code": "SA11",
+        "name": "東京"
+      },
+      "shop_detail_memo": "宴会/和食/女子会/接待/デート/2次会/記念日/合コン/同窓会/歓迎会/送別会/お祝い事/サプライズ/友人",
+      "show": "なし",
+      "small_area": {
+        "code": "X020",
+        "name": "新橋"
+      },
+      "station_name": "新橋",
+      "sub_genre": {
+        "code": "G001",
+        "name": "居酒屋"
+      },
+      "tatami": "なし ：会社宴会や接待はもちろん女子会や合コン、誕生日のお祝いにもオススメです♪",
+      "tv": "あり",
+      "urls": {
+        "pc": "https://www.hotpepper.jp/strJ001266989/?vos=nhppalsa000016"
+      },
+      "wedding": "貸切可能人数40名様 ～80名様まで可能♪※お気軽にご相談下さい。",
+      "wifi": "あり"
+    }, {
+      "access": "ＪＲ 新橋駅烏森口 徒歩2分ゆりかもめ 汐留駅 徒歩3分都営三田線 内幸町駅・御成門駅 徒歩5分有楽町も徒歩圏内",
+      "address": "東京都港区新橋３-8-6-4F",
+      "band": "不可",
+      "barrier_free": "なし",
+      "budget": {
+        "average": "宴会・通常 3500円",
+        "code": "B003",
+        "name": "3001～4000円"
+      },
+      "budget_memo": "お得なクーポン多数ご用意。お見逃しなく。",
+      "capacity": 100,
+      "card": "利用可",
+      "catch": "3時間飲み放題付2,980円～ 木の温もりが包む完全個室",
+      "charter": "貸切可 ：新橋での二次会など団体様のご宴会には貸切対応も可能です。お気軽にご相談下さいませ。",
+      "child": "お子様連れ歓迎 ：お子様の誕生日会、ママ会・ランチにも安心してご利用頂けるよう、掘り炬燵完全個室席へご案内致します★",
+      "close": "年中無休",
+      "coupon_urls": {
+        "pc": "https://www.hotpepper.jp/strJ001224749/map/?vos=nhppalsa000016",
+        "sp": "https://www.hotpepper.jp/strJ001224749/scoupon/?vos=nhppalsa000016"
+      },
+      "course": "あり",
+      "english": "なし",
+      "free_drink": "あり ：3時間飲み放題付コース 2,980円～各種｜全90種以上の豊富な飲み放題メニュー。生ビールや日本酒、ワインも",
+      "free_food": "あり ：3時間飲み放題＆しゃぶしゃぶ食べ放題コースが3,480円～ご用意",
+      "genre": {
+        "catch": "新橋駅徒歩2分｜全席完全個室｜海鮮和食",
+        "code": "G001",
+        "name": "居酒屋"
+      },
+      "horigotatsu": "なし",
+      "id": "J001224749",
+      "karaoke": "なし",
+      "ktai_coupon": 0,
+      "large_area": {
+        "code": "Z011",
+        "name": "東京"
+      },
+      "large_service_area": {
+        "code": "SS10",
+        "name": "関東"
+      },
+      "lat": 35.6654773035,
+      "lng": 139.7554819451,
+      "logo_image": "https://imgfp.hotp.jp/IMGH/80/57/P035318057/P035318057_69.jpg",
+      "lunch": "あり",
+      "middle_area": {
+        "code": "Y005",
+        "name": "銀座・有楽町・新橋・築地・月島"
+      },
+      "midnight": "営業していない",
+      "mobile_access": "JR 新橋駅烏森口徒歩2分･ゆりかもめ 汐留駅徒歩3分",
+      "name": "海鮮番屋 個室 しずく 雫 新橋店",
+      "name_kana": "かいせんばんや　こしつ　しずく　しんばしてん",
+      "non_smoking": "一部禁煙",
+      "open": "月～日、祝日、祝前日: 12:00～20:00 （料理L.O. 19:00 ドリンクL.O. 19:00）",
+      "other_memo": "ご宴会に必要な備品等がございましたらご相談下さい。",
+      "parking": "あり ：お近くのコインパーキングをご利用くださいませ。★",
+      "party_capacity": 120,
+      "pet": "不可",
+      "photo": {
+        "mobile": {
+          "l": "https://imgfp.hotp.jp/IMGH/83/45/P035268345/P035268345_168.jpg",
+          "s": "https://imgfp.hotp.jp/IMGH/83/45/P035268345/P035268345_100.jpg"
+        },
+        "pc": {
+          "l": "https://imgfp.hotp.jp/IMGH/83/45/P035268345/P035268345_238.jpg",
+          "m": "https://imgfp.hotp.jp/IMGH/83/45/P035268345/P035268345_168.jpg",
+          "s": "https://imgfp.hotp.jp/IMGH/83/45/P035268345/P035268345_58_s.jpg"
+        }
+      },
+      "private_room": "あり ：2名様～ご利用可能な完全個室のプライベート空間。大小様々なタイプのお部屋に分かれた全席完全個室空間。",
+      "service_area": {
+        "code": "SA11",
+        "name": "東京"
+      },
+      "shop_detail_memo": "営業時間外のランチのご予約、ご予算のご相談など些細なことでも、お気軽にご連絡下さい。",
+      "show": "なし",
+      "small_area": {
+        "code": "X020",
+        "name": "新橋"
+      },
+      "station_name": "新橋",
+      "sub_genre": {
+        "code": "G004",
+        "name": "和食"
+      },
+      "tatami": "あり",
+      "tv": "なし",
+      "urls": {
+        "pc": "https://www.hotpepper.jp/strJ001224749/?vos=nhppalsa000016"
+      },
+      "wedding": "結婚記念日やご婚約、その他誕生日などにはサプライズ演出でデザートプレート無料贈呈",
+      "wifi": "あり"
+    }, {
+      "access": "JR新橋駅より徒歩2分◆完全個室2名様～最大120名様まで対応◎洋風肉バル・歓送迎会・女子会・誕生日会に人気！",
+      "address": "東京都港区新橋３－15－8精工ビル2階",
+      "band": "不可",
+      "barrier_free": "なし ：お席のご相談も承りますので、お気軽にお問い合わせください。",
+      "budget": {
+        "average": "3000円",
+        "code": "B002",
+        "name": "2001～3000円"
+      },
+      "budget_memo": "お通し代：450円 ",
+      "capacity": 100,
+      "card": "利用可",
+      "catch": "★シェフ厳選お肉を堪能～ チーズ料理好きな方にも～",
+      "charter": "貸切可 ：お時間・人数は要相談です。お気軽にご相談ください♪",
+      "child": "お子様連れ歓迎 ：個室完備◎お子様にも安心です。",
+      "close": "※休業期間は変更される可能性がございます",
+      "coupon_urls": {
+        "pc": "https://www.hotpepper.jp/strJ001261336/map/?vos=nhppalsa000016",
+        "sp": "https://www.hotpepper.jp/strJ001261336/scoupon/?vos=nhppalsa000016"
+      },
+      "course": "あり",
+      "english": "なし",
+      "free_drink": "あり ：飲み放題付きコースはご予算とシーンに合わせてご用意♪",
+      "free_food": "あり ：食べ放題プランのご用意は御座いません。",
+      "genre": {
+        "catch": "新橋人気！上質な絶品肉料理を完全個室で～",
+        "code": "G001",
+        "name": "居酒屋"
+      },
+      "horigotatsu": "なし ：【全室完全個室】2名様～65名様の個室ご用意できます♪",
+      "id": "J001261336",
+      "karaoke": "なし",
+      "ktai_coupon": 0,
+      "large_area": {
+        "code": "Z011",
+        "name": "東京"
+      },
+      "large_service_area": {
+        "code": "SS10",
+        "name": "関東"
+      },
+      "lat": 35.6653448271,
+      "lng": 139.7558041453,
+      "logo_image": "https://imgfp.hotp.jp/IMGH/04/54/P037020454/P037020454_69.jpg",
+      "lunch": "あり",
+      "middle_area": {
+        "code": "Y005",
+        "name": "銀座・有楽町・新橋・築地・月島"
+      },
+      "midnight": "営業していない",
+      "mobile_access": "JR新橋駅より徒歩2分◆完全個室2名～最大120名様対応",
+      "name": "29GABULL ニクガブル 新橋本店",
+      "name_kana": "にくばる　たべほうだい　あんど　さんじかんのみほうだい　にくがぶる　しんばしほんてん",
+      "non_smoking": "一部禁煙",
+      "open": "月～日、祝日、祝前日: 11:00～20:00 （料理L.O. 19:00 ドリンクL.O. 19:00）",
+      "other_memo": "その他ご要望はお気軽にご相談ください",
+      "parking": "あり ：お近くのコインパーキングをご利用下さい。お酒を飲まれる方は車のご利用はご遠慮下さい。",
+      "party_capacity": 120,
+      "pet": "不可",
+      "photo": {
+        "mobile": {
+          "l": "https://imgfp.hotp.jp/IMGH/04/55/P037020455/P037020455_168.jpg",
+          "s": "https://imgfp.hotp.jp/IMGH/04/55/P037020455/P037020455_100.jpg"
+        },
+        "pc": {
+          "l": "https://imgfp.hotp.jp/IMGH/04/55/P037020455/P037020455_238.jpg",
+          "m": "https://imgfp.hotp.jp/IMGH/04/55/P037020455/P037020455_168.jpg",
+          "s": "https://imgfp.hotp.jp/IMGH/04/55/P037020455/P037020455_58_s.jpg"
+        }
+      },
+      "private_room": "あり ：【全室完全個室】2名様～65名様の個室ご用意できます♪",
+      "service_area": {
+        "code": "SA11",
+        "name": "東京"
+      },
+      "shop_detail_memo": "宴会・会社宴会・合コン・女子会等・・様々なシーンに最適です！",
+      "show": "なし",
+      "small_area": {
+        "code": "X020",
+        "name": "新橋"
+      },
+      "station_name": "新橋",
+      "sub_genre": {
+        "code": "G002",
+        "name": "ダイニングバー・バル"
+      },
+      "tatami": "なし ：【全室完全個室】2名様～65名様の個室ご用意できます♪",
+      "tv": "なし",
+      "urls": {
+        "pc": "https://www.hotpepper.jp/strJ001261336/?vos=nhppalsa000016"
+      },
+      "wedding": "ウェディング二次会は個室で!!時間・ご予算など店舗までお気軽にご相談下さい♪",
+      "wifi": "あり"
+    }, {
+      "access": "JR新橋駅より徒歩2分◆全席個室2名様～最大120名様まで対応◎歓送迎会・女子会・誕生日会に人気！",
+      "address": "東京都港区新橋２-１５-１８　プラザT２ビル３F",
+      "band": "不可",
+      "barrier_free": "なし ：お席のご相談も承りますので、お気軽にお問い合わせください。",
+      "budget": {
+        "average": "3500円",
+        "code": "B003",
+        "name": "3001～4000円"
+      },
+      "budget_memo": "お通し代：400円 サービス料:10％",
+      "capacity": 120,
+      "card": "利用可",
+      "catch": "大人気の肉寿司♪ 誕生日・記念日特典あり♪",
+      "charter": "貸切可 ：お時間・人数は要相談です。お気軽にご相談ください♪",
+      "child": "お子様連れOK ：個室完備◎お子様にも安心です。",
+      "close": "※1/25(月)～1/26(火)は臨時休業とさせていただきます。※休業期間・営業時間は変更される可能性がございます。",
+      "coupon_urls": {
+        "pc": "https://www.hotpepper.jp/strJ001176889/map/?vos=nhppalsa000016",
+        "sp": "https://www.hotpepper.jp/strJ001176889/scoupon/?vos=nhppalsa000016"
+      },
+      "course": "あり",
+      "english": "なし",
+      "free_drink": "あり ：飲み放題付きコースはご予算とシーンに合わせてご用意♪",
+      "free_food": "なし ：食べ放題プランのご用意は御座いません。",
+      "genre": {
+        "catch": "肉×完全個室×創作和食",
+        "code": "G001",
+        "name": "居酒屋"
+      },
+      "horigotatsu": "なし ：【全室完全個室】2名様～65名様の個室ご用意できます♪",
+      "id": "J001176889",
+      "karaoke": "なし",
+      "ktai_coupon": 0,
+      "large_area": {
+        "code": "Z011",
+        "name": "東京"
+      },
+      "large_service_area": {
+        "code": "SS10",
+        "name": "関東"
+      },
+      "lat": 35.6667563425,
+      "lng": 139.7560896199,
+      "logo_image": "https://imgfp.hotp.jp/IMGH/31/97/P032203197/P032203197_69.jpg",
+      "lunch": "あり",
+      "middle_area": {
+        "code": "Y005",
+        "name": "銀座・有楽町・新橋・築地・月島"
+      },
+      "midnight": "営業していない",
+      "mobile_access": "JR新橋駅より徒歩2分◆全席個室2名～最大65名様対応◎",
+      "name": "肉バル SoleiL ソレイユ 新橋店",
+      "name_kana": "ぜんせきこしつ　にくばる　ちーず　それいゆ　しんばしてん",
+      "non_smoking": "全面禁煙",
+      "open": "月～金、祝前日: 16:00～20:00 （料理L.O. 19:00 ドリンクL.O. 19:00）土、日、祝日: 14:00～20:00 （料理L.O. 19:00 ドリンクL.O. 19:00）",
+      "other_memo": "その他ご要望はお気軽にご相談ください",
+      "parking": "なし ：お近くのコインパーキングをご利用下さい。お酒を飲まれる方は車のご利用はご遠慮下さい。",
+      "party_capacity": 120,
+      "pet": "不可",
+      "photo": {
+        "mobile": {
+          "l": "https://imgfp.hotp.jp/IMGH/32/08/P032203208/P032203208_168.jpg",
+          "s": "https://imgfp.hotp.jp/IMGH/32/08/P032203208/P032203208_100.jpg"
+        },
+        "pc": {
+          "l": "https://imgfp.hotp.jp/IMGH/32/08/P032203208/P032203208_238.jpg",
+          "m": "https://imgfp.hotp.jp/IMGH/32/08/P032203208/P032203208_168.jpg",
+          "s": "https://imgfp.hotp.jp/IMGH/32/08/P032203208/P032203208_58_s.jpg"
+        }
+      },
+      "private_room": "あり ：【全室完全個室】2名様～65名様の個室ご用意できます♪",
+      "service_area": {
+        "code": "SA11",
+        "name": "東京"
+      },
+      "shop_detail_memo": "宴会・会社宴会・合コン・女子会等・・様々なシーンに最適です！",
+      "show": "なし",
+      "small_area": {
+        "code": "X020",
+        "name": "新橋"
+      },
+      "station_name": "新橋",
+      "sub_genre": {
+        "code": "G002",
+        "name": "ダイニングバー・バル"
+      },
+      "tatami": "なし",
+      "tv": "なし",
+      "urls": {
+        "pc": "https://www.hotpepper.jp/strJ001176889/?vos=nhppalsa000016"
+      },
+      "wedding": "ウェディング二次会は個室で!!時間・ご予算など店舗までお気軽にご相談下さい♪",
+      "wifi": "あり"
+    }, {
+      "access": "ＪＲ新橋駅 SL広場口 徒歩1分！2名様～団体様まで完全個室へご案内◎最大3H飲み放題付プランは3000円～！各種ご宴会に！",
+      "address": "東京都港区新橋２-16-1　ニュー新橋ビル３F　３１２　１・２",
+      "band": "不可",
+      "barrier_free": "なし ：従業員一同、お客様がお寛ぎいただける店づくりを目指して対応させて頂きます。",
+      "budget": {
+        "average": "通常：3000円～　飲み放題付きプラン多数あります♪",
+        "code": "B003",
+        "name": "3001～4000円"
+      },
+      "budget_memo": "新橋駅1分！2名様～個室OK！最大3時間飲み放題付コース3000円～",
+      "capacity": 250,
+      "card": "利用可",
+      "catch": "※時短営業のお知らせ※ 新型コロナウィルス対策",
+      "charter": "貸切可 ：最大250名様迄の貸切宴会承っております。結婚式の二次会や同窓会に◎",
+      "child": "お子様連れOK ：お子様連れのご来店も大歓迎！是非ご利用ください。",
+      "close": "ビルの休館日に準ずる。",
+      "coupon_urls": {
+        "pc": "https://www.hotpepper.jp/strJ001247052/map/?vos=nhppalsa000016",
+        "sp": "https://www.hotpepper.jp/strJ001247052/scoupon/?vos=nhppalsa000016"
+      },
+      "course": "あり",
+      "english": "なし",
+      "free_drink": "あり ：最大3時間飲み放題付プラン3000円～多数ご用意！",
+      "free_food": "あり ：唐揚げや牛タタキをご堪能頂けるリーズナブルな食べ放題を豊富にご用意！",
+      "genre": {
+        "catch": "新橋 SL広場口 個室 飲み会 飲み放題 接待",
+        "code": "G001",
+        "name": "居酒屋"
+      },
+      "horigotatsu": "なし ：ゆったりとお過ごしいただける広々としたオシャレな空間を用意！少人数から団体様まで様々な席あります",
+      "id": "J001247052",
+      "karaoke": "なし",
+      "ktai_coupon": 0,
+      "large_area": {
+        "code": "Z011",
+        "name": "東京"
+      },
+      "large_service_area": {
+        "code": "SS10",
+        "name": "関東"
+      },
+      "lat": 35.6664253067,
+      "lng": 139.7575153455,
+      "logo_image": "https://imgfp.hotp.jp/IMGH/79/90/P036607990/P036607990_69.jpg",
+      "lunch": "なし",
+      "middle_area": {
+        "code": "Y005",
+        "name": "銀座・有楽町・新橋・築地・月島"
+      },
+      "midnight": "営業している",
+      "mobile_access": "2名様～個室OK!新橋駅ｽｸﾞ!宴会ｺｰｽ3000円～",
+      "name": "鳥之助 新橋SL広場店",
+      "name_kana": "ぜんせきおしゃれなかんぜんこしつやきとりたべほうだいとりのすけしんばしえすえるひろばてん",
+      "non_smoking": "一部禁煙",
+      "open": "月～日、祝日、祝前日: 16:00～23:45 （料理L.O. 23:00 ドリンクL.O. 23:20）",
+      "other_memo": "ご不明点等ございましたら、お気軽にお問い合わせください。",
+      "parking": "なし ：お近くのコインパーキングをご利用ください。",
+      "party_capacity": 250,
+      "pet": "不可",
+      "photo": {
+        "mobile": {
+          "l": "https://imgfp.hotp.jp/IMGH/79/82/P036607982/P036607982_168.jpg",
+          "s": "https://imgfp.hotp.jp/IMGH/79/82/P036607982/P036607982_100.jpg"
+        },
+        "pc": {
+          "l": "https://imgfp.hotp.jp/IMGH/79/82/P036607982/P036607982_238.jpg",
+          "m": "https://imgfp.hotp.jp/IMGH/79/82/P036607982/P036607982_168.jpg",
+          "s": "https://imgfp.hotp.jp/IMGH/79/82/P036607982/P036607982_58_s.jpg"
+        }
+      },
+      "private_room": "あり ：バルならではの開放的でオシャレなお席をラインナップ豊富にお席を用意しております♪",
+      "service_area": {
+        "code": "SA11",
+        "name": "東京"
+      },
+      "shop_detail_memo": "コースやご予算、人数などお気軽にご相談ください◎スタッフ一同お客様のご来店をお待ちしております。",
+      "show": "なし",
+      "small_area": {
+        "code": "X020",
+        "name": "新橋"
+      },
+      "station_name": "新橋",
+      "sub_genre": {
+        "code": "G004",
+        "name": "和食"
+      },
+      "tatami": "なし ：開放的で楽しい雰囲気で日常とは違った席をご用意しております！宴会・女子会・合コンに◎",
+      "tv": "なし",
+      "urls": {
+        "pc": "https://www.hotpepper.jp/strJ001247052/?vos=nhppalsa000016"
+      },
+      "wedding": "結婚式の二次会にもぴったりのコースメニューや飲み放題をご用意しております。",
+      "wifi": "あり"
+    }, {
+      "access": "もんじゃストリート三番街のスーパーダイエーの向かいのビル2階にございます。",
+      "address": "東京都中央区月島３-8-10　ことりビル2階",
+      "band": "不可",
+      "barrier_free": "なし",
+      "budget": {
+        "average": "",
+        "code": "B002",
+        "name": "2001～3000円"
+      },
+      "budget_memo": "",
+      "capacity": 42,
+      "card": "利用可",
+      "catch": "",
+      "charter": "貸切可",
+      "child": "お子様連れ歓迎",
+      "close": "不定休(お盆、お正月休み)●感染症対策に取り組んでおります",
+      "coupon_urls": {
+        "pc": "https://www.hotpepper.jp/strJ001249568/map/?vos=nhppalsa000016",
+        "sp": "https://www.hotpepper.jp/strJ001249568/scoupon/?vos=nhppalsa000016"
+      },
+      "course": "なし",
+      "english": "あり",
+      "free_drink": "あり",
+      "free_food": "なし",
+      "genre": {
+        "catch": "月島にニューオープン!!女子会・誕生日会◎",
+        "code": "G016",
+        "name": "お好み焼き・もんじゃ"
+      },
+      "horigotatsu": "なし",
+      "id": "J001249568",
+      "karaoke": "なし",
+      "ktai_coupon": 1,
+      "large_area": {
+        "code": "Z011",
+        "name": "東京"
+      },
+      "large_service_area": {
+        "code": "SS10",
+        "name": "関東"
+      },
+      "lat": 35.6631385337,
+      "lng": 139.7812531841,
+      "logo_image": "https://imgfp.hotp.jp/IMGH/41/20/P036244120/P036244120_69.jpg",
+      "lunch": "なし",
+      "middle_area": {
+        "code": "Y005",
+        "name": "銀座・有楽町・新橋・築地・月島"
+      },
+      "midnight": "営業していない",
+      "mobile_access": "月島駅徒歩2分",
+      "name": "もんじゃ わだち",
+      "name_kana": "もんじゃ　わだち",
+      "non_smoking": "全面禁煙",
+      "open": "月～日、祝日、祝前日: 17:00～23:00 （料理L.O. 22:00 ドリンクL.O. 22:30）",
+      "other_memo": "",
+      "parking": "なし",
+      "party_capacity": 42,
+      "pet": "不可",
+      "photo": {
+        "mobile": {
+          "l": "https://imgfp.hotp.jp/IMGH/41/22/P036244122/P036244122_168.jpg",
+          "s": "https://imgfp.hotp.jp/IMGH/41/22/P036244122/P036244122_100.jpg"
+        },
+        "pc": {
+          "l": "https://imgfp.hotp.jp/IMGH/41/22/P036244122/P036244122_238.jpg",
+          "m": "https://imgfp.hotp.jp/IMGH/41/22/P036244122/P036244122_168.jpg",
+          "s": "https://imgfp.hotp.jp/IMGH/41/22/P036244122/P036244122_58_s.jpg"
+        }
+      },
+      "private_room": "なし",
+      "service_area": {
+        "code": "SA11",
+        "name": "東京"
+      },
+      "shop_detail_memo": "詳しくはスタッフまで",
+      "show": "なし",
+      "small_area": {
+        "code": "X026",
+        "name": "月島"
+      },
+      "station_name": "月島",
+      "tatami": "なし",
+      "tv": "なし",
+      "urls": {
+        "pc": "https://www.hotpepper.jp/strJ001249568/?vos=nhppalsa000016"
+      },
+      "wedding": "",
+      "wifi": "あり"
+    }, {
+      "access": "東京メトロ「銀座」駅・A5出口より歌舞伎座方面へ徒歩1分！　",
+      "address": "東京都中央区銀座５-9-1　銀座コティビル地下１階",
+      "band": "不可",
+      "barrier_free": "なし ：スタッフがお手伝いいたします。お気軽にお声掛けください。",
+      "budget": {
+        "average": "4000円（通常平均）　4000円（宴会平均）　850円（ランチ平均）",
+        "code": "B003",
+        "name": "3001～4000円"
+      },
+      "budget_memo": "お通500円、バーや食事のみは10%　21:30以降入店お通600円＋10%",
+      "capacity": 48,
+      "card": "利用可",
+      "catch": "当日ＯＫ★お祝いに・・ 会計最大3000円引クーポン",
+      "charter": "貸切可 ：お気軽にご相談ください！！",
+      "child": "お子様連れOK ：お気軽にお問い合わせください。",
+      "close": "年末年始※ビルメンテナンスの都合などにより、営業時間の変更・臨時定休がある場合がございます。",
+      "coupon_urls": {
+        "pc": "https://www.hotpepper.jp/strJ000963918/map/?vos=nhppalsa000016",
+        "sp": "https://www.hotpepper.jp/strJ000963918/scoupon/?vos=nhppalsa000016"
+      },
+      "course": "あり",
+      "english": "あり",
+      "free_drink": "あり ：豊富なドリンク、カクテルを飲み放題♪スパークリングワイン飲み放題プランもあります♪",
+      "free_food": "なし ：ご用意ありません。",
+      "genre": {
+        "catch": "銀座駅徒歩１分★コスパ・雰囲気◎の人気店",
+        "code": "G006",
+        "name": "イタリアン・フレンチ"
+      },
+      "horigotatsu": "なし ：ご用意ありません。",
+      "id": "J000963918",
+      "karaoke": "なし",
+      "ktai_coupon": 0,
+      "large_area": {
+        "code": "Z011",
+        "name": "東京"
+      },
+      "large_service_area": {
+        "code": "SS10",
+        "name": "関東"
+      },
+      "lat": 35.6705253401,
+      "lng": 139.7656331026,
+      "logo_image": "https://imgfp.hotp.jp/IMGH/68/75/P023356875/P023356875_69.jpg",
+      "lunch": "あり",
+      "middle_area": {
+        "code": "Y005",
+        "name": "銀座・有楽町・新橋・築地・月島"
+      },
+      "midnight": "営業していない",
+      "mobile_access": "地下鉄銀座駅 徒歩1分",
+      "name": "Tapas&Wine 銀座ZION",
+      "name_kana": "たぱすあんどわいん　ぎんざざいおん",
+      "non_smoking": "全面禁煙",
+      "open": "月～日、祝日、祝前日: 11:30～13:30 （料理L.O. 13:00 ドリンクL.O. 13:00）17:00～20:00 （料理L.O. 19:00 ドリンクL.O. 19:30）",
+      "other_memo": "プロジェクター完備◎貸切宴会におすすめ！",
+      "parking": "なし ：近隣のパーキング、または公共交通機関をご利用ください。",
+      "party_capacity": 50,
+      "pet": "不可",
+      "photo": {
+        "mobile": {
+          "l": "https://imgfp.hotp.jp/IMGH/64/23/P036176423/P036176423_168.jpg",
+          "s": "https://imgfp.hotp.jp/IMGH/64/23/P036176423/P036176423_100.jpg"
+        },
+        "pc": {
+          "l": "https://imgfp.hotp.jp/IMGH/64/23/P036176423/P036176423_238.jpg",
+          "m": "https://imgfp.hotp.jp/IMGH/64/23/P036176423/P036176423_168.jpg",
+          "s": "https://imgfp.hotp.jp/IMGH/64/23/P036176423/P036176423_58_s.jpg"
+        }
+      },
+      "private_room": "なし ：半個室のようなBOXソファ席です。詳しくは席をご覧ください。",
+      "service_area": {
+        "code": "SA11",
+        "name": "東京"
+      },
+      "shop_detail_memo": "１２月はサービス料別途１０％ 頂戴いたします。※クリスマス期間は予約内容を制限させて頂いております。",
+      "show": "なし",
+      "small_area": {
+        "code": "X005",
+        "name": "銀座"
+      },
+      "station_name": "銀座",
+      "sub_genre": {
+        "code": "G002",
+        "name": "ダイニングバー・バル"
+      },
+      "tatami": "なし ：ご用意ありません。",
+      "tv": "あり",
+      "urls": {
+        "pc": "https://www.hotpepper.jp/strJ000963918/?vos=nhppalsa000016"
+      },
+      "wedding": "承ります♪詳細はお店にお問合せ下さい！",
+      "wifi": "未確認"
+    }, {
+      "access": "新橋駅 徒歩1分鉄銀座線 新橋駅 徒歩2分浅草線 新橋駅 徒歩3分三田線 内幸町駅 徒歩2分【完全個室】　",
+      "address": "東京都港区新橋２-１５-１８ プラザT２ビル６階",
+      "band": "不可",
+      "barrier_free": "なし ：ご不便な際は当店スタッフがお手伝い致します。",
+      "budget": {
+        "average": "3300円/2ｈ飲放題￥1100～/幹事無料クーポン有",
+        "code": "B003",
+        "name": "3001～4000円"
+      },
+      "budget_memo": "Google pay/Paypal/ipay/yunshanfu",
+      "capacity": 120,
+      "card": "利用可",
+      "catch": "《新橋駅》無制限飲み放題 3H飲放題×1100円引き！",
+      "charter": "貸切可 ：貸切は最大60名様まで承ります。※最低保障額25万円",
+      "child": "お子様連れ歓迎 ：お子様連れ大歓迎♪ママ会にも◎",
+      "close": "無休※ビル閉館日除く年末年始・お盆休みも休まず営業しております♪",
+      "coupon_urls": {
+        "pc": "https://www.hotpepper.jp/strJ001162640/map/?vos=nhppalsa000016",
+        "sp": "https://www.hotpepper.jp/strJ001162640/scoupon/?vos=nhppalsa000016"
+      },
+      "course": "あり",
+      "english": "なし",
+      "free_drink": "あり ：3300円以下のコース、3300円～4400円のコース、4400円～5500円のコース、5500円～8800円のコース",
+      "free_food": "なし ：全室個室//ボリューム満点のメニューをご用意しております！",
+      "genre": {
+        "catch": "【OPEN記念】個室完備！全コース1100円引！",
+        "code": "G001",
+        "name": "居酒屋"
+      },
+      "horigotatsu": "あり ：内見もOK♪団体様にお得な幹事様無料クーポンもご用意☆",
+      "id": "J001162640",
+      "karaoke": "なし",
+      "ktai_coupon": 0,
+      "large_area": {
+        "code": "Z011",
+        "name": "東京"
+      },
+      "large_service_area": {
+        "code": "SS10",
+        "name": "関東"
+      },
+      "lat": 35.6667480106,
+      "lng": 139.7561093408,
+      "logo_image": "https://imgfp.hotp.jp/IMGH/17/24/P037341724/P037341724_69.jpg",
+      "lunch": "なし",
+      "middle_area": {
+        "code": "Y005",
+        "name": "銀座・有楽町・新橋・築地・月島"
+      },
+      "midnight": "営業していない",
+      "mobile_access": "新橋駅 徒歩1分【個室】時間無制限飲み放1,980円",
+      "name": "居酒屋 肉屋次郎 新橋本店",
+      "name_kana": "かんぜんこしつじどりそうさくりょうりあんどむせいげんのみほうだいいざかやにくやじろうしんばしほんてん",
+      "non_smoking": "禁煙席なし",
+      "open": "月～日、祝日、祝前日: 12:00～20:00 （料理L.O. 19:00 ドリンクL.O. 19:00）",
+      "other_memo": "仕切り、壁は全て可動式◎様々なシーンに対応致します！",
+      "parking": "なし ：お近くにパーキングエリアがございます",
+      "party_capacity": 150,
+      "pet": "不可",
+      "photo": {
+        "mobile": {
+          "l": "https://imgfp.hotp.jp/IMGH/17/26/P037341726/P037341726_168.jpg",
+          "s": "https://imgfp.hotp.jp/IMGH/17/26/P037341726/P037341726_100.jpg"
+        },
+        "pc": {
+          "l": "https://imgfp.hotp.jp/IMGH/17/26/P037341726/P037341726_238.jpg",
+          "m": "https://imgfp.hotp.jp/IMGH/17/26/P037341726/P037341726_168.jpg",
+          "s": "https://imgfp.hotp.jp/IMGH/17/26/P037341726/P037341726_58_s.jpg"
+        }
+      },
+      "private_room": "あり ：テーブル個室（2～4名様用3室/4～8名様用3室/8～16名様用2室/16～24名様用・30～50名様用各1室)壁・扉あり ",
+      "service_area": {
+        "code": "SA11",
+        "name": "東京"
+      },
+      "shop_detail_memo": "友人同士の飲み会/会社宴会/団体様での歓送迎会/女子会/誕生日/記念日/接待に最適の全室完全個室居酒屋☆",
+      "show": "なし",
+      "small_area": {
+        "code": "X020",
+        "name": "新橋"
+      },
+      "station_name": "新橋",
+      "sub_genre": {
+        "code": "G004",
+        "name": "和食"
+      },
+      "tatami": "あり ：お席のご要望はお電話にて承ります！まずはご相談下さい♪",
+      "tv": "なし",
+      "urls": {
+        "pc": "https://www.hotpepper.jp/strJ001162640/?vos=nhppalsa000016"
+      },
+      "wedding": "貸し切りでのご予約は予めお電話でお問い合わせください♪",
+      "wifi": "あり"
+    }]
+  }
+}

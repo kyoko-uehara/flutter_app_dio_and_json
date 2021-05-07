@@ -7,14 +7,17 @@ part of 'middle_area.dart';
 // **************************************************************************
 
 MiddleArea _$MiddleAreaFromJson(Map<String, dynamic> json) {
-  return MiddleArea()
-    ..apiVersion = json['api_version'] as String
-    ..middleAreaName = (json['middle_area'] as List)
-        ?.map((e) => e as Map<String, dynamic>)
-        ?.toList()
-    ..resultsAvailable = json['results_available'] as int
-    ..resultsReturned = json['results_returned'] as String
-    ..resultsStart = json['results_start'] as int;
+  return MiddleArea(
+    json['api_version'] as String,
+    (json['middle_area'] as List)
+        ?.map((e) => e == null
+            ? null
+            : MiddleAreaName.fromJson(e as Map<String, dynamic>))
+        ?.toList(),
+    json['results_available'] as int,
+    json['results_returned'] as String,
+    json['results_start'] as int,
+  );
 }
 
 Map<String, dynamic> _$MiddleAreaToJson(MiddleArea instance) =>

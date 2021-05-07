@@ -1,3 +1,5 @@
+import 'dart:convert';
+
 import 'package:dio/dio.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_app_dio_and_json/http_service.dart';
@@ -15,9 +17,10 @@ class _MiddleAriaScreenState extends State<MiddleAriaScreen> {
 
   HttpService http;
 
-  Results results;
-  MiddleArea middleArea;
-  MiddleAreaName middleAreaName;
+  Results _results;
+  MiddleArea _middleArea;
+  MiddleAreaName _middleAreaName;
+  String _name;
 
   bool isLoading = false;
 
@@ -37,11 +40,12 @@ class _MiddleAriaScreenState extends State<MiddleAriaScreen> {
 
       if (response.statusCode == 200){
         setState(() {
-          //results = Results.fromJson(response.data);
+          _results = Results.fromJson(jsonDecode(response.data));
 
-          //middleAreaResponse = MiddleAreaResponse.fromJson(response.data);
-          //middleAreaName = middleArea.middleAreaName;
-
+          _middleArea = _results.middleArea;
+          _middleAreaName = _middleArea.middleAreaName[0];
+          print(_middleAreaName.name);
+          _name = _middleAreaName.name;
 
         });
       }else{
@@ -71,9 +75,9 @@ class _MiddleAriaScreenState extends State<MiddleAriaScreen> {
       ),
       body: isLoading
         ? Center(child: CircularProgressIndicator())
-        : results != null ? Container(
+        : _name != null ? Container(
             width: double.infinity,
-            child: Text(results.toString())
+            child: Text(_name.toString())
             ):Center(child: Text("No Middle Area Object!!!",),
           ),
     );
