@@ -1,6 +1,6 @@
 import 'package:dio/dio.dart';
 
-class HttpService{
+class HttpService {
   Dio _dio;
 
   //リクルートWEBサービス
@@ -18,48 +18,35 @@ class HttpService{
   // &large_area=Z011
   // &format=json
 
-
   final baseUrl = "https://webservice.recruit.co.jp/hotpepper/";
 
-  HttpService(){
+  HttpService() {
     _dio = Dio(BaseOptions(
       baseUrl: baseUrl,
-
     ));
 
     initializeInterceptors();
   }
 
-  Future<Response> getRequest(String endPoint) async{
+  Future<Response> getRequest(String endPoint) async {
     Response response;
 
-
-    try{
+    try {
       response = await _dio.get(endPoint);
-
-    } on DioError catch(e) {
+    } on DioError catch (e) {
       print(e.message);
       throw Exception(e.message);
-
     }
-
     return response;
   }
-  
 
-  initializeInterceptors(){
-    _dio.interceptors.add(InterceptorsWrapper(
-
-      onError: (error){
-        print(error.message);
-      },
-      onRequest: (request){
-        print("${request.method} ${request.path}");
-      },
-      onResponse: (response){
-        print(response.data);
-      }
-    ));
+  initializeInterceptors() {
+    _dio.interceptors.add(InterceptorsWrapper(onError: (error) {
+      print(error.message);
+    }, onRequest: (request) {
+      print("${request.method} ${request.path}");
+    }, onResponse: (response) {
+      print(response.data);
+    }));
   }
-
 }
