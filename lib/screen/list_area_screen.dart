@@ -14,8 +14,8 @@ class Home extends ConsumerWidget{
   @override
   Widget build(BuildContext context, ScopedReader watch){
     final count = watch(counterProvider);
-    return Text('$count');
-
+    //return Text('$count');
+    return Text("Riverpodの学習");
   }
 
 }
