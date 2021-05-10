@@ -3,10 +3,22 @@ import 'dart:convert';
 import 'package:dio/dio.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_app_dio_and_json/http_service.dart';
+import 'package:flutter_app_dio_and_json/main.dart';
 import 'package:flutter_app_dio_and_json/model/middle_area.dart';
 import 'package:flutter_app_dio_and_json/model/middle_area_name.dart';
 import 'package:flutter_app_dio_and_json/model/results.dart';
 import 'package:flutter_app_dio_and_json/screen/shop_screen.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
+
+class Home extends ConsumerWidget{
+  @override
+  Widget build(BuildContext context, ScopedReader watch){
+    final count = watch(counterProvider);
+    return Text('$count');
+
+  }
+
+}
 
 class ListAreaScreen extends StatefulWidget {
   @override
@@ -30,6 +42,7 @@ class _ListAreaScreenState extends State<ListAreaScreen> {
 
       if (response.statusCode == 200) {
         setState(() {
+
           _results = Results.fromJson(jsonDecode(response.data));
           _middleArea = _results.middleArea;
           _middleAreaNameList = _middleArea.middleAreaName;
@@ -54,7 +67,7 @@ class _ListAreaScreenState extends State<ListAreaScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("エリア検索"),
+        title: Home(),
       ),
       body: isLoading
           ? Center(child: CircularProgressIndicator())
